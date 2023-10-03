@@ -4,7 +4,7 @@ This is a simplified version of a locales selector I made for a project. I'll be
 
 It includes a "locales" folder with the translations for the different languages. 
 
-## Small description 
+## Short description 
 
 A simple system to change the language of a website. It uses a redux store to keep the selected language and a component to render the languages.
 
