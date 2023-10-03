@@ -8,6 +8,11 @@ It includes a "locales" folder with the translations for the different languages
 
 A simple system to change the language of a website. It uses a redux store to keep the selected language and a component to render the languages.
 
+## Technologies
+- Vite React 
+- Redux Toolkit
+- Tailwind CSS
+
 ## Usage
 
 To add a new language, add a new js file with an object with the translations to the locales folder. Then add the language to the index file as the others. 
