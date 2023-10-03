@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  body {
+    @apply bg-brown-soft;
+  }
+
+  h1 {
+    @apply text-4xl text-white;
+  }
+
+}
